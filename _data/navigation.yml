@@ -1,9 +1,9 @@
 # main links links
 main:
-    - title: "Education & Experiences"
+  - title: "Education & Experiences"
     url: /talks/
 
-    - title: "Projects"
+  - title: "Projects"
     url: /portfolio/
 
   - title: "Publications"
