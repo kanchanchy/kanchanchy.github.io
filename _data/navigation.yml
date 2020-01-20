@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Education & Experiences"
-    url: /talks/
+    url: /education_experience/
 
   - title: "Projects"
     url: /portfolio/
