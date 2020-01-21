@@ -18,7 +18,7 @@ Education
   * Thesis Title: Fuzzy Features based Online Handwritten Bangla Word Recognition Framework
   * Recipient of Honors award for academic performance
 
-Work experience
+Work Experience
 ======
 * Teaching Assistant, Arizona State University, Fall 2018 - Present
   * Taught 5 courses including Distributed Database Systems, Data Processing at Scale, Object Oriented Programming & Data Structure, Introduction to Java & Python, Introduction to C++
@@ -33,5 +33,5 @@ Work experience
 * Android Application Developer, La Chef Plc, UK, August 2015 - December 2016
   * Worked on developing mobile applications for managing online orders and reservations at various restaurants in UK.
 
-* Trainer of Mobile Application Development, ICT Divisions of Bangladesh, May 2015 - July 2015
+* Trainer of Mobile Application Development, ICT Division of Bangladesh, May 2015 - July 2015
   * Trained approximately 100 undergraduate students on Android Application Development.
