@@ -11,4 +11,4 @@ Published in the 22nd International Conference on Extending Database Technology,
 
 Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: Here
+Publication Link: [Here](https://kanchanchy.github.io/files/EDBT-short-2019.pdf)
