@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 
 Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction (short paper)
 ------
