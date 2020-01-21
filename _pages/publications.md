@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction (short paper)
+======
+Published in the 22nd International Conference on Extending Database Technology, EDBT, 2019
 
-{% include base_path %}
+Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Publication Link: Here
