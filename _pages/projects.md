@@ -13,7 +13,7 @@ I loved to solve problems on UVa Online Judge and Light OJ when I was an undergr
 
 Optimizing Hyperparameters of CNN
 ======
-Performance of a multi-layer neural network always depends on hyper-parameters such as learning rate, mini batch size, dropout rate, starting learning rate, and learning rate etc. Optimizing hyper-parameters of a multi-layer neural network is always a challenging task. This project implements two ways of optimizing hyper-parameters of a convolutional neural network and compares their performances: 1) Grid Search and 2) Bayesian Optimization. It optimizes three particular hyper-parameters: learning rate, dropout for first fully connected layer and dropout for second fully connected layer.
+Performance of a multi-layer neural network always depends on hyper-parameters such as learning rate, mini batch size, dropout rate, starting learning rate, and learning rate etc. Optimizing hyper-parameters of a multi-layer neural network is always a challenging task. This project implements two ways of optimizing hyper-parameters of a convolutional neural network and compares their performances: 1) Grid Search and 2) Bayesian Optimization. It optimizes three particular hyper-parameters: learning rate, dropout for first fully connected layer and dropout for second fully connected layer. The implementation is based on Pytorch framework.
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Optimizing-Hyperparameters-CNN)
 
@@ -29,5 +29,15 @@ This project shows the sketch implementation of a multi-layer neural network usi
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Multilayer-Neural-Network-from-Sketch)
 
+GagaGugu Android Application
+======
+GagaGugu is an Android platform based mobile application which supports social networking and communications. Supported functionalities include but are not limited to messaging, free audio and video calls, updating posts, sharing videos, news, and other posts.
 
+Project Link: [Playstore](https://play.google.com/store/apps/details?id=com.gagagugu.connect)
+
+Image classification with CNN using Keras
+======
+This project implements a convolutional neural network (CNN) model using Keras framework. After that, it perfroms training and testing on CNN model for classifying MNIST dataset. The CNN used here consists of two convolution layers. Each convolution layer is followed by a pooling layer. Covolution and pooling layers are followed by three fully connected layers where the last fully connected layer is the output layer.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/CNN-Keras)
 
