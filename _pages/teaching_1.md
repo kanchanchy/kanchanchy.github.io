@@ -28,4 +28,3 @@ Undergraduate Course, Arizona State University
 Principles of Programming with Java & Python (CSE 110), Fall 2018
 ------
 Undergraduate Course, Arizona State University
-
