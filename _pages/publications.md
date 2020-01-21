@@ -20,7 +20,7 @@ Published in the 18th International Conference on Computer and Information Techn
 
 Kanchan Chowdhury, Lamia Alam, Shyla Sarmin, Safayet Arefin, Mohammed Moshiul Hoque
 
-Publication Link: IEEE(https://ieeexplore.ieee.org/abstract/document/7488119)
+Publication Link: [IEEE](https://ieeexplore.ieee.org/abstract/document/7488119)
 
 Finding, Counting, and Highlighting all Triangles in Large Graphs
 ------
@@ -28,4 +28,4 @@ Published in the International Conference on Robotics,Electrical and Signal Proc
 
 Md. Ashraf Uddin, Kanchan Chowdhury, Liton Kumar Ray
 
-Publication Link: IEEE(https://ieeexplore.ieee.org/abstract/document/8644304)
+Publication Link: [IEEE](https://ieeexplore.ieee.org/abstract/document/8644304)
