@@ -27,10 +27,10 @@ Work Experience
   * Worked on generating a benchmark for natural language to SQL query synthesis approaches
   * Mentor/Collaborators: Professor Mohamed Sarwat, Venkata VamsiKrishna Meduri
 
-* Software Engineer, BTech. Solutions Pvt Ltd (P1), Basundhara Group, Bangladesh, January 2017 - June 2018
+* Software Engineer, Gagagugu PTE LTD (P1), Basundhara Group, Bangladesh, January 2017 - June 2018
   * Worked on developing mobile applications for social networking, communication systems
 
-* Android Application Developer, La Chef Plc, UK, August 2015 - December 2016
+* Android Application Developer, Le Chef Plc, UK (ChefOnline in Bangladesh), August 2015 - December 2016
   * Worked on developing mobile applications for managing online orders and reservations at various restaurants in UK.
 
 * Trainer of Mobile Application Development, ICT Division of Bangladesh, May 2015 - July 2015

@@ -29,9 +29,15 @@ This project shows the sketch implementation of a multi-layer neural network usi
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Multilayer-Neural-Network-from-Sketch)
 
+GGfone: Free Voice Calls Over Wifi + Wifi Calling
+======
+GGfone is an Android platform based mobile application featuring high-quality international calls at super affordable costs, unlimited free voice calls with HD quality between this application users, transfering credit balance to other users, and earning free credit by doing simple tasks. This application was developed during my work at Gagagugu PTE LTD.
+
+Project Link: [Playstore](https://play.google.com/store/apps/details?id=com.gagagugu.ggfone)
+
 GagaGugu Android Application
 ======
-GagaGugu is an Android platform based mobile application which supports social networking and communications. Supported functionalities include but are not limited to messaging, free audio and video calls, updating posts, sharing videos, news, and other posts. This application was developed during my work at BTech. Solutions Pvt Ltd.
+GagaGugu is an Android platform based mobile application which supports social networking and communications. Supported functionalities include but are not limited to messaging, free audio and video calls, updating posts, sharing videos, news, and other posts. This application was developed during my work at Gagagugu PTE LTD.
 
 Project Link: [Playstore](https://play.google.com/store/apps/details?id=com.gagagugu.connect)
 
