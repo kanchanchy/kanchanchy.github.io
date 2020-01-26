@@ -31,7 +31,7 @@ Project Link: [Github Repository](https://github.com/kanchanchy/Multilayer-Neura
 
 GagaGugu Android Application
 ======
-GagaGugu is an Android platform based mobile application which supports social networking and communications. Supported functionalities include but are not limited to messaging, free audio and video calls, updating posts, sharing videos, news, and other posts.
+GagaGugu is an Android platform based mobile application which supports social networking and communications. Supported functionalities include but are not limited to messaging, free audio and video calls, updating posts, sharing videos, news, and other posts. This application was developed during my work at BTech. Solutions Pvt Ltd.
 
 Project Link: [Playstore](https://play.google.com/store/apps/details?id=com.gagagugu.connect)
 
@@ -40,4 +40,16 @@ Image classification with CNN using Keras
 This project implements a convolutional neural network (CNN) model using Keras framework. After that, it perfroms training and testing on CNN model for classifying MNIST dataset. The CNN used here consists of two convolution layers. Each convolution layer is followed by a pooling layer. Covolution and pooling layers are followed by three fully connected layers where the last fully connected layer is the output layer.
 
 Project Link: [Github Repository](https://github.com/kanchanchy/CNN-Keras)
+
+Tic Tac Toe Childhood Game
+======
+It is an Android operating system based childhood game. It's mainly played between two players connecting two devices through bluetooth. If a partner player is not available, user can also play it with Android where Android acts as a player. There are two symbols: Circle and Cross. Each player use one symbol. There are a square number of boxes in a grid. Each player put his symbol in either one of the remaining boxes. The player who can first match his symbol horizontally, vertically or diagonally wins the match. If no matching is possible then the game is tied.
+
+Project Link: [Playstore](https://play.google.com/store/apps/details?id=com.applicationslab.tictactoe&hl=en)   [Github Repository](https://github.com/kanchanchy/Tic-Tac-Toe)
+
+Ayurvedic Treatment
+======
+It's an Android application providing useful home treatment information for various diseases. Provided information helps in knowing which plants are good for which diseases. It also helps in diagnosis of diseases based on symptoms. It helps in determining the BMI status, and necessary dietary tips are provided based on BMI status. It also shows the nearest hospitals on Google map.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Ayurvedic-Treatment)
 
