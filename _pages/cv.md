@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Coming soon!!!
+(https://kanchanchy.github.io/files/Kanchan_Chy_Resume.pdf)
