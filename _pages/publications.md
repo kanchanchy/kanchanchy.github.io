@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
+NLIDB-Bench: A Benchmark for Evaluating Natural Language Interfaces to Relational Databases
+------
+Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
+
+Publication Link: [Here](https://kanchanchy.github.io/files/NLIDB_Bench.pdf)
+
 Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction (short paper)
 ------
 Published in the 22nd International Conference on Extending Database Technology (EDBT), 2019
