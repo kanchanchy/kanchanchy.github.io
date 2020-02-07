@@ -23,12 +23,6 @@ This project performs three tasks. 1) It writes two User Defined Functions: ST_C
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Hotspot-Analysis-Taxitrip-Data)
 
-NLIDB-Bench
-======
-NLIDB-Bench is a benchmark framework that can be used to evaluate and compare various NL-2-SQL approaches. The evaluation is done on a comprehensive set of benchmark metrics using four existing popular datasets and one more dataset on Yelp database proposed by NLIDB-Bench.
-
-Project Link: [Project Website](https://kanchanchy.github.io/NLIDB-Bench/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Full Paper](https://kanchanchy.github.io/files/NLIDB_Bench.pdf)
-
 Multi-layer Neural Network from Sketch
 ======
 This project shows the sketch implementation of a multi-layer neural network using numpy. It implements various functions used in a deep neural network and uses those functions to train and test a multi-layer neural network. The project shows the implementation of following functions: 1)Parameter initialization, 2)Relu activation, 3)Gradient of relu activation, 4)Linear activation, 5)Derivative of linear activation, 6)Softmax cross entropy loss, 7)One hot representation of classes, 8)Derivative of softmax cross entropy loss, 9)Forward dropout, 10)Backward dropout, 11)Single layer forward propagation, 12)Multi-layer forward propagation, 13)Single layer backward propagation, 14)Multi-layer backward propagation, 15)Classification/Prediction, 16)Calculating momentum, 17)Updating parameters with momentum, 18)Multi-layer neural network
