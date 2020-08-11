@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
+Tabula in Action: A Sampling Middleware for Interactive Geospatial Visualization dashboards (Demo Paper)
+------
+Published in VLDB 2020
+
+Jia Yu, Kanchan Chowdhury, Mohamed Sarwat
+
+Publication Link: [Here](https://jiayuasu.github.io/publication/y2020-tabula-vldb/)
+
 Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction (short paper)
 ------
 Published in the 22nd International Conference on Extending Database Technology (EDBT), 2019
