@@ -10,7 +10,7 @@ author_profile: true
 
 Tabula in Action: A Sampling Middleware for Interactive Geospatial Visualization dashboards (Demo Paper)
 ------
-Published in VLDB 2020
+Published in the International Conference on Very Large Databases (VLDB), 2020
 
 Jia Yu, Kanchan Chowdhury, Mohamed Sarwat
 
