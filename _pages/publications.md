@@ -14,7 +14,7 @@ Published in VLDB 2020
 
 Jia Yu, Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: [Here](https://jiayuasu.github.io/publication/y2020-tabula-vldb/)
+Publication Link: [Here](https://dl.acm.org/doi/abs/10.14778/3415478.3415510)
 
 Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction (short paper)
 ------
