@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
+Evaluation of Machine Learning Algorithms in Predicting the Next SQL Query From the Future (Research Paper)
+------
+Published in the ACM Transactions on Database Systems (ACM TODS), 2021
+
+Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
+
+Publication Link: To appear in ACM TODS 2021
+
 Tabula in Action: A Sampling Middleware for Interactive Geospatial Visualization dashboards (Demo Paper)
 ------
 Published in the International Conference on Very Large Databases (VLDB), 2020
