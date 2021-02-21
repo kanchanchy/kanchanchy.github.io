@@ -32,6 +32,14 @@ Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
 
 Publication Link: [Here](https://kanchanchy.github.io/files/EDBT-short-2019.pdf)
 
+Evaluating Deep Learning in SystemML using Layer-wise Adaptive Rate Scaling (LARS) Optimizer (archive paper)
+------
+Uploaded to Cornell University Archive, 2021
+
+Kanchan Chowdhury, Ankita Sharma, Arun Deepak Chandrasekar
+
+Publication Link: [Here](https://arxiv.org/pdf/2102.03018.pdf)
+
 A fuzzy features based online handwritten Bangla word recognition framework
 ------
 Published in the 18th International Conference on Computer and Information Technology (ICCIT), 2015
