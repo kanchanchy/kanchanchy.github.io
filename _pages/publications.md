@@ -14,7 +14,7 @@ Published in the ACM Transactions on Database Systems (ACM TODS), 2021
 
 Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: To appear in ACM TODS 2021
+Publication Link: [Here](https://dl.acm.org/doi/10.1145/3442338)
 
 Tabula in Action: A Sampling Middleware for Interactive Geospatial Visualization dashboards (Demo Paper)
 ------
