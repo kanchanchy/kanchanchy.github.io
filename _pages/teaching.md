@@ -9,7 +9,7 @@ author_profile: true
 
 I served as a TA for the following courses:
 
-Distributed Database Systems (CSE 512): Spring 2021, Fall 2020, Spring 2020
+Distributed Database Systems (CSE 512): Fall 2021, Spring 2021, Fall 2020, Spring 2020
 ------
 Graduate Course, Arizona State University
 
