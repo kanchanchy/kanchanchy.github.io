@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -20,7 +19,7 @@ Projects
 My projects can be found on my [Github Repository](https://github.com/kanchanchy).
 
 ML Aware Spatial Data Repartitioning
-======
+=====
 This is a framework which aims at reducing the training time and memory usage of a spatial machine learning model by reducing the number of partitions in a spatial grid dataset. Experiments on four datasets achieved significant reduction in training time and memory consumption while bounding the difference in prediction error within 5%.
 
 Project Link: [Github Repository](https://github.com/kanchanchy/spatial-repartitioning-ml)
