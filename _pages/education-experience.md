@@ -48,6 +48,6 @@ Important Courses
 * Graduate Courses
   * Statistical Machine Learning, Fundamentals of Statistical Learning, Distributed Database Systems, Data mining, Semantic Web Mining, Social Media Mining
 * Undergraduate Courses
-  * Programming in C/C++, Object Oriented programming in Java, Data Structure, Algorithms, Discrete Mathematics, Artificial Intelligence, Software Engineering
+  * Programming in C/C++, Object Oriented programming in Java, Data Structure, Algorithms, Discrete Mathematics, Artificial Intelligence, Software Engineering, Digital Logic Design, Computer Architecture
 * Online Courses
   * Big Data Analysis with Scala and Spark, Natural Language Processing, Deep Neural Networks with PyTorch, Python for Data Science, AI & Development.
