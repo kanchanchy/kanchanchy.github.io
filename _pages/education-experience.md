@@ -19,6 +19,8 @@ Education
   * Advisor: Professor Moshiul Hoque
   * Thesis Title: Fuzzy Features based Online Handwritten Bangla Word Recognition Framework
   * Recipient of Honors award for academic performance
+  * 2nd Runner-up at two national project competitions in Bangladesh: i) National Hackathon and ii) Mobile Application Code Hub in 2014
+  * Achieved 6th position at Inter University Programming Contest organized by my undergraduate university in 2012
 
 Work Experience
 ======
@@ -28,8 +30,10 @@ Work Experience
 
 * Research Assistant, Fall 2018 - Present
   * Data Systems Lab @ASU
-  * Worked on developing a framework for spatial data repartitioning with an objective of reducing training time, developing a framework for spatio-temporal machine learning on top of PyTorch, and developing a benchmark for natural language to SQL query synthesis approaches
-  * Mentor/Collaborators: Professor Mohamed Sarwat, Venkata VamsiKrishna Meduri
+  * Working on building systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques
+  * Worked on AI powered improvement of data integration techniques
+  * Worked on a benchmark for evaluating natural language to SQL query synthesis approaches
+  * Mentor/Collaborators: Professor Mohamed Sarwat, Venkata VamsiKrishna Meduri, Jia Yu
 
 * Software Engineer, January 2017 - June 2018
   * Gagagugu PTE LTD (P1), Basundhara Group, Bangladesh

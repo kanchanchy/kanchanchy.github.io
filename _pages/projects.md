@@ -16,7 +16,6 @@ Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?optio
 
 Projects
 ======
-My projects can be found on my [Github Repository](https://github.com/kanchanchy).
 
 Named Entity Recognition
 ------
@@ -84,4 +83,6 @@ It is an Android operating system based childhood game. It's mainly played betwe
 
 Project Link: [Playstore](https://play.google.com/store/apps/details?id=com.applicationslab.tictactoe&hl=en) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Github Repository](https://github.com/kanchanchy/Tic-Tac-Toe)
 
+My other projects can be found on my [Github Repository](https://github.com/kanchanchy).
+------
 
