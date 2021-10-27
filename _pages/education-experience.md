@@ -11,11 +11,11 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, 2018 - Present
-  * Arizona State University
+  * Organization: Arizona State University
   * Advisor: Professor Mohamed Sarwat
   * Recepient of CIDSE Doctoral Fellowship award for the academic year 2018 - 2019
 * B.Sc. in Computer Science & Engineering, 2010 - 2014
-  * Chittagong University of Engineering & Technology
+  * Organization: Chittagong University of Engineering & Technology
   * Advisor: Professor Moshiul Hoque
   * Thesis Title: Fuzzy Features based Online Handwritten Bangla Word Recognition Framework
   * Recipient of Honors award for academic performance
@@ -25,27 +25,27 @@ Education
 Work Experience
 ======
 * Teaching Assistant, Fall 2018 - Present
-  * Arizona State University
+  * Organization: Arizona State University
   * Taught 5 courses including Distributed Database Systems, Data Processing at Scale, Object Oriented Programming & Data Structure, Introduction to Java & Python, Introduction to C++
 
 * Research Assistant, Fall 2018 - Present
-  * Data Systems Lab @ASU
+  * Organization: Data Systems Lab @ASU
   * Working on building systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques
   * Worked on AI powered improvement of data integration techniques
   * Worked on a benchmark for evaluating natural language to SQL query synthesis approaches
   * Mentor/Collaborators: Professor Mohamed Sarwat, Venkata VamsiKrishna Meduri, Jia Yu
 
 * Software Engineer, January 2017 - June 2018
-  * Gagagugu PTE LTD (P1), Basundhara Group, Bangladesh
-  * Worked on developing mobile applications for social networking, communication systems
+  * Organization: Gagagugu PTE LTD (P1), Basundhara Group, Bangladesh
+  * Responsibilities: Worked on developing Android applications featuring functionalities related to social networking such as calling, messaging, post sharing, etc.
 
 * Android Application Developer, January 2015 - December 2016
-  * Le Chef Plc, UK (ChefOnline in Bangladesh)
-  * Worked on developing mobile applications for managing online orders and reservations at various restaurants in UK.
+  * Organization: Le Chef Plc, UK (ChefOnline in Bangladesh)
+  * Responsibilities: Worked on developing Android applications featuring services such as online order and reservations for restaurants in UK.
 
 * Trainer of Mobile Application Development, May 2015 - July 2015
-  * ICT Division of Bangladesh
-  * Trained approximately 100 undergraduate students on Android Application Development.
+  * Organization: ICT Division of Bangladesh
+  * Responsibilities: Trained approximately 100 undergraduate students on Android Application Development.
 
 Important Courses
 ======
