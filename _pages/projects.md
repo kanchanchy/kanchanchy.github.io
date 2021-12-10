@@ -23,6 +23,24 @@ Named Entity Recognition, NER in short, is a research problem which has gained g
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Named-Entity-Recognition)
 
+Hotspot Analysis using New York Taxitrip Data
+------
+This project performs three tasks. 1) It writes two User Defined Functions: ST_Contains and ST_Within in SparkSQL and uses them to perform spatial queries such as Range Query and Distance Query. 2) Hotzone Analysis: it performs a range join operation on a rectangle dataset and a point dataset. For each rectangle, the number of points located within the rectangle is obtained. The hotter rectangle means that it include more points. 3) Hotspot Analysis: it implements a Spark program to calculate the Getis-Ord statistic of NYC Taxi Trip datasets. It is hot cell analysis. A G score is calculated for each cell, and higher G score means hotter cell. The topic of this task is from ACM SIGSPATIAL GISCUP 2016. The Problem Definition page is [here](http://sigspatial2016.sigspatial.org/giscup2016/problem).
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Hotspot-Analysis-Taxitrip-Data)
+
+Fake News Detection using Bidirectional LSTM
+------
+This project builds and trains a bidirectional LSTM in order to perform fake news classification. It shows all steps from data loading and preprocessing to model evaluation in a step-by-step procedure. Operations include: data loading and feature engineering, data cleaning, data visualization, tokenization and feature vector generation, and model building, training and evaluation.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Fake-News-Detection-BiLSTM)
+
+Denoising Image using Autoencoder with PyTorch
+------
+This project builds an autoencoder model in PyTorch in order to perform denoising operation on images. For that purpose, it loads MNIST image datsets and adds noises to every image. Later, an autoencoder is built and trained to reproduce actual images from noisy images. It prepares a custom dataset on PyTorch which generates a noisy version of each image. In the training dataset, noisy images and original images serve as input data and labels respectively.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Denoise-Image-Autoencoder)
+
 Optimizing Hyperparameters of CNN
 ------
 Performance of a multi-layer neural network always depends on hyper-parameters such as learning rate, mini batch size, dropout rate, starting learning rate, and learning rate etc. Optimizing hyper-parameters of a multi-layer neural network is always a challenging task. This project implements two ways of optimizing hyper-parameters of a convolutional neural network and compares their performances: 1) Grid Search and 2) Bayesian Optimization. It optimizes three particular hyper-parameters: learning rate, dropout for first fully connected layer and dropout for second fully connected layer. The implementation is based on Pytorch framework.
@@ -34,12 +52,6 @@ Multi-layer Neural Network from Scratch
 This project shows the scratch implementation of a multi-layer neural network using numpy. It implements various functions used in a deep neural network and uses those functions to train and test a multi-layer neural network. The project shows the implementation of following functions: 1)Parameter initialization, 2)Relu activation, 3)Gradient of relu activation, 4)Linear activation, 5)Derivative of linear activation, 6)Softmax cross entropy loss, 7)One hot representation of classes, 8)Derivative of softmax cross entropy loss, 9)Forward dropout, 10)Backward dropout, 11)Single layer forward propagation, 12)Multi-layer forward propagation, 13)Single layer backward propagation, 14)Multi-layer backward propagation, 15)Classification/Prediction, 16)Calculating momentum, 17)Updating parameters with momentum, 18)Multi-layer neural network
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Multilayer-Neural-Network-from-Scratch)
-
-Hotspot Analysis using New York Taxitrip Data
-------
-This project performs three tasks. 1) It writes two User Defined Functions: ST_Contains and ST_Within in SparkSQL and uses them to perform spatial queries such as Range Query and Distance Query. 2) Hotzone Analysis: it performs a range join operation on a rectangle dataset and a point dataset. For each rectangle, the number of points located within the rectangle is obtained. The hotter rectangle means that it include more points. 3) Hotspot Analysis: it implements a Spark program to calculate the Getis-Ord statistic of NYC Taxi Trip datasets. It is hot cell analysis. A G score is calculated for each cell, and higher G score means hotter cell. The topic of this task is from ACM SIGSPATIAL GISCUP 2016. The Problem Definition page is [here](http://sigspatial2016.sigspatial.org/giscup2016/problem).
-
-Project Link: [Github Repository](https://github.com/kanchanchy/Hotspot-Analysis-Taxitrip-Data)
 
 Image classification with CNN using Keras
 ------
