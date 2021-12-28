@@ -17,6 +17,30 @@ Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?optio
 Projects
 ======
 
+Forecasting Climate Change with Deep Learning
+------
+This project builds and trains an LSTM model in order to predict global and US temperature from historical data. It shows all steps from raw data loading and preprocessing to model evaluation in a step-by-step procedure. Operations include: data loading, exploratory data analysis, data cleaning, data visualization, preparing data for model training, model building, training and evaluation.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/climate-change-forecasting-keras)
+
+Data Visualization in Python
+------
+It performs statistical data analysis using useful visualizations with three Python libraries: Matplotlib, Seaborn, and Plotly Express. Visualizations include but are not limited to line plot, scatter plot, pie chart, histograms, bnar plots, subplot, 3D plot, pair plot, count plot, dist plot, heatmaps, correlation plot, gantt chart, bubble chart, sunburst, box plot, density plot, and violin plot.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Data-Visualization-in-Python)
+
+Fake News Detection using Bidirectional LSTM
+------
+This project builds and trains a bidirectional LSTM in order to perform fake news classification. It shows all steps from data loading and preprocessing to model evaluation in a step-by-step procedure. Operations include: data loading and feature engineering, data cleaning, data visualization, tokenization and feature vector generation, and model building, training and evaluation.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Fake-News-Detection-BiLSTM)
+
+Anomaly detection using Pycaret
+------
+This project builds and evaluates anomaly detection models using PyCaret. Performed operations include data loading from Pycaret library, exploring data with visualizations, preparing data for model, building, evaluating, and deploying anomaly detection model.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/anomaly-detection-pycaret)
+
 Named Entity Recognition
 ------
 Named Entity Recognition, NER in short, is a research problem which has gained growing interests from the NLP community. Recently, deep learning methods has achieved state-of-the-art performance in the task of recognizing named entity although performance improvement has become very slow at this stage. In this work, I tune various steps of the state-of-the-art deep learning methods for named entity recognition in order to experiment the changes in performance. I evaluate the tuned NER algorithms with two popular datasets: CoNLL-2003 and OntoNotes-5.0.
@@ -29,17 +53,23 @@ This project performs three tasks. 1) It writes two User Defined Functions: ST_C
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Hotspot-Analysis-Taxitrip-Data)
 
-Fake News Detection using Bidirectional LSTM
+Generative Adversarial Network in PyTorch
 ------
-This project builds and trains a bidirectional LSTM in order to perform fake news classification. It shows all steps from data loading and preprocessing to model evaluation in a step-by-step procedure. Operations include: data loading and feature engineering, data cleaning, data visualization, tokenization and feature vector generation, and model building, training and evaluation.
+This project builds a generative adversarial network in PyTorch with MNIST dataset. The network consists of two models: generator model and discriminator model. Generator model generates fake images and discriminator model classifies fake and real images.
 
-Project Link: [Github Repository](https://github.com/kanchanchy/Fake-News-Detection-BiLSTM)
+Project Link: [Github Repository](https://github.com/kanchanchy/generative-adversarial-network-pytorch)
 
-Denoising Image using Autoencoder with PyTorch
+Denoising Image using Autoencoder in PyTorch
 ------
 This project builds an autoencoder model in PyTorch in order to perform denoising operation on images. For that purpose, it loads MNIST image datsets and adds noises to every image. Later, an autoencoder is built and trained to reproduce actual images from noisy images. It prepares a custom dataset on PyTorch which generates a noisy version of each image. In the training dataset, noisy images and original images serve as input data and labels respectively.
 
 Project Link: [Github Repository](https://github.com/kanchanchy/Denoise-Image-Autoencoder)
+
+Sentiment Analysis with BERT in PyTorch
+------
+The purpose of this project is to classify sentiment/emotions using twitter smile emotion dataset. It performs necessary data preprocessing, tokenization, and encoding to prepare the data for model training. After that, it sets up BERT pretrained model and performs training, evaluation, saving, and loading of the model.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/sentiment-analysis-bert-pytorch)
 
 Optimizing Hyperparameters of CNN
 ------
