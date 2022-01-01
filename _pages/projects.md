@@ -23,6 +23,12 @@ This project builds and trains an LSTM model in order to predict global and US t
 
 Project Link: [Github Repository](https://github.com/kanchanchy/climate-change-forecasting-keras)
 
+Spatio-Temporal Data Processing on Apache Spark/Apache Sedona
+------
+This work performs spatial and temporal data processing steps using Apache Sedona on the raw dataset of NYC Taxi Trip records (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The final goal is to convert the dataset into two tensors: i) spatio-temporal tensor and ii) spatial grid tensor.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/Spatial-Data-Processing)
+
 Data Visualization in Python
 ------
 It performs statistical data analysis using useful visualizations with three Python libraries: Matplotlib, Seaborn, and Plotly Express. Visualizations include but are not limited to line plot, scatter plot, pie chart, histograms, bnar plots, subplot, 3D plot, pair plot, count plot, dist plot, heatmaps, correlation plot, gantt chart, bubble chart, sunburst, box plot, density plot, and violin plot.
