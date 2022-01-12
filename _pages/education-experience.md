@@ -24,12 +24,9 @@ Education
 
 Work Experience
 ======
-* Teaching Assistant, Fall 2018 - Present
+* Teaching & Research Assistant, Fall 2018 - Present
   * Organization: Arizona State University
   * Taught 5 courses including Distributed Database Systems, Data Processing at Scale, Object Oriented Programming & Data Structure, Introduction to Java & Python, Introduction to C++
-
-* Research Assistant, Fall 2018 - Present
-  * Organization: Data Systems Lab @ASU
   * Working on building systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques
   * Worked on AI powered improvement of data integration techniques
   * Worked on a benchmark for evaluating natural language to SQL query synthesis approaches
