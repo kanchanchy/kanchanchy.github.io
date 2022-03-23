@@ -10,7 +10,7 @@ author_profile: true
 
 A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets (Research Paper)
 ------
-Published in the 38th International Conference on Data Engineering (ICDE), 2022
+Accepted for publication in the 38th International Conference on Data Engineering (ICDE), 2022
 
 Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
 
