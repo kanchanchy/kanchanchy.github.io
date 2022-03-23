@@ -14,5 +14,5 @@ Before joining Arizona State University, I obtained my Bachelor of Science in Co
 
 Research Interests
 ======
-Machine Learning, Big Data Analytics, Database Systems, and Geo-spatial Data analytics
+Geo-spatial Data analytics, Machine Learning, Big Data Analytics, and Database Systems
 
