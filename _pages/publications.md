@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
+A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets (Research Paper)
+------
+Published in the 38th International Conference on Data Engineering (ICDE), 2022
+
+Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
+
+Publication Link: To appear in [ICDE 2022](https://icde2022.ieeecomputer.my/)
+
 Evaluation of Machine Learning Algorithms in Predicting the Next SQL Query From the Future (Research Paper)
 ------
 Published in the ACM Transactions on Database Systems (ACM TODS), 2021
