@@ -14,7 +14,7 @@ Accepted for publication in the 38th International Conference on Data Engineerin
 
 Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
 
-Publication Link: To appear in [ICDE 2022](https://icde2022.ieeecomputer.my/)
+Publication Link: To appear in ICDE 2022. [Current Access](https://kanchanchy.github.io/files/ICDE-2022.pdf)
 
 Evaluation of Machine Learning Algorithms in Predicting the Next SQL Query From the Future (Research Paper)
 ------
@@ -38,7 +38,7 @@ Published in the 22nd International Conference on Extending Database Technology 
 
 Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: [Here](https://kanchanchy.github.io/files/EDBT-short-2019.pdf)
+Publication Link: [Here](https://www.semanticscholar.org/paper/Recurrent-Neural-Networks-for-Dynamic-User-Intent-Meduri-Chowdhury/3a396d318c16d15d89afbc48b468a75c3208b340)
 
 A fuzzy features based online handwritten Bangla word recognition framework
 ------
