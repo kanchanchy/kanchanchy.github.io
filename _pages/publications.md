@@ -14,7 +14,7 @@ Accepted for publication in the 38th International Conference on Data Engineerin
 
 Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
 
-Publication Link: To appear in ICDE 2022. [Current Access](https://kanchanchy.github.io/files/ICDE-2022.pdf)
+Publication Link: [Here](https://ieeexplore.ieee.org/document/9835487)
 
 Evaluation of Machine Learning Algorithms in Predicting the Next SQL Query From the Future (Research Paper)
 ------
