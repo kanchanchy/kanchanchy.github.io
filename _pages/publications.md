@@ -8,9 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
+GeoTorch: A Spatiotemporal Deep Learning Framework (Short Paper)
+------
+Accepted for publication in the 330th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
+
+Kanchan Chowdhury, Mohamed Sarwat
+
+Publication Link: To appear in ACM SIGSPATIAL 2022
+
 A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets (Research Paper)
 ------
-Accepted for publication in the 38th International Conference on Data Engineering (ICDE), 2022
+Published in the 38th International Conference on Data Engineering (ICDE), 2022
 
 Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
 
