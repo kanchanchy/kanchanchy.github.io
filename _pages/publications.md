@@ -10,7 +10,7 @@ author_profile: true
 
 GeoTorch: A Spatiotemporal Deep Learning Framework (Short Paper)
 ------
-Accepted for publication in the 330th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
+Accepted for publication in the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
 
 Kanchan Chowdhury, Mohamed Sarwat
 
