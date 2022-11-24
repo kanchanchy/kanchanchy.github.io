@@ -14,9 +14,7 @@ Accepted for publication in the 30th ACM SIGSPATIAL International Conference on 
 
 Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: To appear in ACM SIGSPATIAL 2022
-
-Github Repository: [Here](https://github.com/DataSystemsLab/GeoTorch)
+Publication Link: [Here](https://kanchanchy.github.io/files/Sigspatial_2022.pdf)
 
 A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets
 ------
