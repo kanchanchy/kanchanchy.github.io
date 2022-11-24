@@ -17,6 +17,18 @@ Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?optio
 Projects
 ======
 
+GeoTorch Deep Learning Framework
+------
+GeoTorch is a spatiotemporal deep learning framework on top of PyTorch and Apache Sedona. It enable spatiotemporal machine learning practitioners to easily and efficiently implement deep learning models targeting the applications of raster imagery datasets and spatiotemporal non-imagery datasets. Besides deep learning, it also supports scalable and distributed data preprocessing for raster and spatiotemporal datasets.
+
+Project Link: [Github Repository](https://github.com/DataSystemsLab/GeoTorch)
+
+ML Aware Spatial Data Repartitioning
+------
+This is a framework which aims at reducing the training time and memory usage of a spatial machine learning model by reducing the number of partitions in a spatial grid dataset. Experiments on four datasets achieved significant reduction in training time and memory consumption while bounding the difference in prediction error within 5%.
+
+Project Link: [Github Repository](https://github.com/kanchanchy/spatial-repartitioning-ml)
+
 Forecasting Climate Change with Deep Learning
 ------
 This project builds and trains an LSTM model in order to predict global and US temperature from historical data. It shows all steps from raw data loading and preprocessing to model evaluation in a step-by-step procedure. Operations include: data loading, exploratory data analysis, data cleaning, data visualization, preparing data for model training, model building, training and evaluation.
@@ -94,12 +106,6 @@ Image classification with CNN using Keras
 This project implements a convolutional neural network (CNN) model using Keras framework. After that, it performs training and testing on CNN model for classifying MNIST dataset. The CNN used here consists of two convolution layers. Each convolution layer is followed by a pooling layer. Convolution and pooling layers are followed by three fully connected layers where the last fully connected layer is the output layer.
 
 Project Link: [Github Repository](https://github.com/kanchanchy/CNN-Keras)
-
-ML Aware Spatial Data Repartitioning
-------
-This is a framework which aims at reducing the training time and memory usage of a spatial machine learning model by reducing the number of partitions in a spatial grid dataset. Experiments on four datasets achieved significant reduction in training time and memory consumption while bounding the difference in prediction error within 5%.
-
-Project Link: [Github Repository](https://github.com/kanchanchy/spatial-repartitioning-ml)
 
 GGfone: Free Voice Calls Over Wifi + Wifi Calling
 ------
