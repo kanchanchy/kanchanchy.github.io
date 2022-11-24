@@ -8,16 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
-GeoTorch: A Spatiotemporal Deep Learning Framework (Short Paper)
+GeoTorch: A Spatiotemporal Deep Learning Framework
 ------
 Accepted for publication in the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
 
 Kanchan Chowdhury, Mohamed Sarwat
 
 Publication Link: To appear in ACM SIGSPATIAL 2022
+
 Github Repository: [Here](https://github.com/DataSystemsLab/GeoTorch)
 
-A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets (Research Paper)
+A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets
 ------
 Published in the 38th International Conference on Data Engineering (ICDE), 2022
 
@@ -25,7 +26,7 @@ Kanchan Chowdhury, Venkata VamsiKrishna Meduri, Mohamed Sarwat
 
 Publication Link: [Here](https://ieeexplore.ieee.org/document/9835487)
 
-Evaluation of Machine Learning Algorithms in Predicting the Next SQL Query From the Future (Research Paper)
+Evaluation of Machine Learning Algorithms in Predicting the Next SQL Query From the Future
 ------
 Published in the ACM Transactions on Database Systems (ACM TODS), 2021
 
@@ -33,7 +34,7 @@ Venkata VamsiKrishna Meduri, Kanchan Chowdhury, Mohamed Sarwat
 
 Publication Link: [Here](https://dl.acm.org/doi/10.1145/3442338)
 
-Tabula in Action: A Sampling Middleware for Interactive Geospatial Visualization dashboards (Demo Paper)
+Tabula in Action: A Sampling Middleware for Interactive Geospatial Visualization dashboards
 ------
 Published in the International Conference on Very Large Databases (VLDB), 2020
 
@@ -41,7 +42,7 @@ Jia Yu, Kanchan Chowdhury, Mohamed Sarwat
 
 Publication Link: [Here](https://dl.acm.org/doi/abs/10.14778/3415478.3415510)
 
-Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction (short paper)
+Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction
 ------
 Published in the 22nd International Conference on Extending Database Technology (EDBT), 2019
 

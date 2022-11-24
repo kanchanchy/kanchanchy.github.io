@@ -18,10 +18,10 @@ Machine Learning, Big Data Analytics, Geo-spatial Data analytics, and Database S
 
 Recent News
 ======
-* [10/12/2022] Received ACM SIGSPATIAL 2022 Travel Grant.
-* [08/22/2022] A poster paper titled “GeoTorch: A Spatiotemporal Deep Learning Framework” was accepted in ACM SIGSPATIAL 2022.
-* [03/23/2022] A research paper titled “A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets” was accepted in ICDE 2022.
-* [12/09/2020] A research paper titled “Evaluation of ML Algorithms in Predicting the Next SQL Query from the Future” was accepted in ACM TODS 2021.
-* [04/15/2020] A demo paper titled “Tabula in action: a sampling middleware for interactive geospatial visualization dashboards” was accepted in VLDB 2020.
-* [01/02/2019] A short paper titled “Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction” was accepted in EDBT 2019.
+* [10/12/2022]  Received ACM SIGSPATIAL 2022 Travel Grant.
+* [08/22/2022]  A short paper titled “GeoTorch: A Spatiotemporal Deep Learning Framework” was accepted in ACM SIGSPATIAL 2022.
+* [03/23/2022]  A research paper titled “A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets” was accepted in ICDE 2022.
+* [12/09/2020]  A research paper titled “Evaluation of ML Algorithms in Predicting the Next SQL Query from the Future” was accepted in ACM TODS 2021.
+* [04/15/2020]  A demo paper titled “Tabula in action: a sampling middleware for interactive geospatial visualization dashboards” was accepted in VLDB 2020.
+* [01/02/2019]  A short paper titled “Recurrent Neural Networks for Dynamic User Intent Prediction in Human-Database Interaction” was accepted in EDBT 2019.
 
