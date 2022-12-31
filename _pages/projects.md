@@ -6,13 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% Problem Solving
+Problem Solving
 ======
 I loved to solve problems on UVa Online Judge and Light OJ when I was an undergraduate student. I solved 305 problems in UVa Online Judge, 46 problems in Light OJ and participated in many programming
 contests both in real-time and online. I also answered some questions in StackOver
 ow.
 
-Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=77454). %}
+Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=77454).
 
 Projects
 ======
