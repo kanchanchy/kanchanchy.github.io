@@ -17,11 +17,11 @@ Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?optio
 Projects
 ======
 
-GeoTorch Deep Learning Framework
+GeoTorchAI Deep Learning Framework
 ------
-GeoTorch is a spatiotemporal deep learning framework on top of PyTorch and Apache Sedona. It enable spatiotemporal machine learning practitioners to easily and efficiently implement deep learning models targeting the applications of raster imagery datasets and spatiotemporal non-imagery datasets. Besides deep learning, it also supports scalable and distributed data preprocessing for raster and spatiotemporal datasets.
+GeoTorchAI, formerly known as GeoTorch, is a spatiotemporal deep learning framework on top of PyTorch and Apache Sedona. It enable spatiotemporal machine learning practitioners to easily and efficiently implement deep learning models targeting the applications of raster imagery datasets and spatiotemporal non-imagery datasets. Besides deep learning, it also supports scalable and distributed data preprocessing for raster and spatiotemporal datasets.
 
-Project Link: [Github Repository](https://github.com/DataSystemsLab/GeoTorch)
+Project Link: [Github Repository](https://github.com/DataSystemsLab/GeoTorchAI)
 
 ML Aware Spatial Data Repartitioning
 ------
