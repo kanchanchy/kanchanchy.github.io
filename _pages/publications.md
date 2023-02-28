@@ -8,9 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
+A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework
+------
+Accepted for publication in ACM SIGMOD International Conference on Management of Data (SIGMOD 2023)
+
+Kanchan Chowdhury, Mohamed Sarwat
+
+Publication Link: To be published in SIGMOD 23.
+
 GeoTorch: A Spatiotemporal Deep Learning Framework
 ------
-Accepted for publication in the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
+Published in the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2022)
 
 Kanchan Chowdhury, Mohamed Sarwat
 

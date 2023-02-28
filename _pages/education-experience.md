@@ -32,6 +32,10 @@ Work Experience
   * Worked on a benchmark for evaluating natural language to SQL query synthesis approaches
   * Mentor/Collaborators: Professor Mohamed Sarwat, Venkata VamsiKrishna Meduri, Jia Yu
 
+* Research & Development Intern, January 2023 - Present
+  * Organization: Wherobots Inc, Scottsdale, Arizona, USA
+  * Responsibilities: Developing scalable spatial machine learning tools, scalable map-matching and routing algorithms.
+
 * Software Engineer, January 2017 - June 2018
   * Organization: Gagagugu PTE LTD (P1), Basundhara Group, Bangladesh
   * Responsibilities: Worked on developing Android applications featuring functionalities related to social networking such as calling, messaging, post sharing, etc.
