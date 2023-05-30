@@ -18,10 +18,12 @@ Machine Learning, Big Data Analytics, Geo-spatial Data analytics, and Database S
 
 Recent News
 ======
+* [04/24/2023]  Received ACM SIGMOD 2023 student travel grant to attend the conference and present a paper. Also, have been selected a volunteer to help organize the conference.
 * [02/26/2023]  A demo paper titled “A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework” was accepted in SIGMOD 2023.
 * [01/09/2023]  Started Internship at Wherobots Inc. as a Research & Development Intern.
-* [11/02/2022]  Attended ACM SIGSPATIAL 2022 and presented my work: “GeoTorch: A Spatiotemporal Deep Learning Framework”.
-* [10/12/2022]  Received ACM SIGSPATIAL 2022 travel award to attend the conference.
+* [11/02/2022]  Attended ACM SIGSPATIAL 2022, volunteered to organize the conference and presented my work: “GeoTorch: A Spatiotemporal Deep Learning Framework”.
+* [10/12/2022]  Received ACM SIGSPATIAL 2022 travel award to attend the conference and present a paper.
+* [09/30/2022]  Received ASU GPSA travel grant to attend the conference ACM SIGSPATIAL 2022 and present a paper.
 * [08/22/2022]  A short paper titled “GeoTorch: A Spatiotemporal Deep Learning Framework” was accepted in ACM SIGSPATIAL 2022.
 * [06/12/2022]  Attended ACM SIGMOD/PODS 2022 conference.
 * [05/10/2022]  Attended ICDE 2022 and presented my work: “A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets”.
