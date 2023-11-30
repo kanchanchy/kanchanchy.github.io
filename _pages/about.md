@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science in the School of Computing and Augmented Intelligence at Arizona State University. I am a member of [Data Systems Lab](https://www.datasyslab.net/) where I am supervised by [Professor Dr. Sarwat](https://mosarwat.org/). My research interests lie in the areas of machine learning, big data analytics, geospatial data management, and database systems. My current research focuses on building noble systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques.
+I am a PhD candidate in Computer Science in the School of Computing and Augmented Intelligence at Arizona State University. I am a member of [Data Systems Lab](https://www.datasyslab.net/) where I am supervised by [Professor Dr. Mo Sarwat](https://mosarwat.org/). I have also been co-supervised by [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home) since Since 2023. My research interests lie in the areas of machine learning, big data analytics, geospatial data management, and database systems. My current research focuses on building noble systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques.
 
-Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
+I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Fall 2023. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
 
 Research Interests
 ======
-Machine Learning, Big Data Analytics, Geo-spatial Data analytics, and Database Systems
+Machine Learning, Big Geo-spatial Data analytics, and Database Systems
 
 Recent News
 ======
+* [08/15/2023]  Completed Internship at Wherobots Inc. as a Research & Development Intern.
+* [06/19/2023]  Attended ACM SIGMOD 2022, volunteered to organize the conference and presented my work: “A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework”.
 * [04/24/2023]  Received ACM SIGMOD 2023 student travel grant to attend the conference and present a paper. Also, have been selected a volunteer to help organize the conference.
 * [02/26/2023]  A demo paper titled “A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework” was accepted in SIGMOD 2023.
 * [01/09/2023]  Started Internship at Wherobots Inc. as a Research & Development Intern.
