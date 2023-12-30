@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
+Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI
+------
+Accepted in IEEE 40th International Conference on Data Engineering (ICDE 2024)
+
+Kanchan Chowdhury, Mohamed Sarwat
+
+Publication Link: [To Appear in ICDE 2024]
+
 A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework
 ------
 Published in ACM SIGMOD International Conference on Management of Data (SIGMOD 2023)

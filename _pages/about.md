@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science in the School of Computing and Augmented Intelligence at Arizona State University. My PhD research is supervised by [Professor Dr. Mo Sarwat](https://mosarwat.org/) and co-supervised by [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home). My research interests lie in the areas of machine learning, big data analytics, geospatial data management, and database systems. My current research focuses on building noble systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques.
+I am a PhD candidate in Computer Science in the School of Computing and Augmented Intelligence at Arizona State University. My PhD research is supervised by [Professor Dr. Mo Sarwat](https://mosarwat.org/) and [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home). My research interests lie in the areas of machine learning, big data analytics, geospatial data management, and database systems. My current research focuses on building noble systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques.
 
 I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Fall 2023. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
 
@@ -18,6 +18,7 @@ Machine Learning, Big Geo-spatial Data analytics, and Database Systems
 
 Recent News
 ======
+* [12/23/2023]  A research paper titled “Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI” was accepted in ICDE 2024.
 * [08/15/2023]  Completed Internship at Wherobots Inc. as a Research & Development Intern.
 * [06/19/2023]  Attended ACM SIGMOD 2022, volunteered to organize the conference and presented my work: “A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework”.
 * [04/24/2023]  Received ACM SIGMOD 2023 student travel grant to attend the conference and present a paper. Also, have been selected a volunteer to help organize the conference.
