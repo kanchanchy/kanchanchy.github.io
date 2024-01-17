@@ -14,7 +14,7 @@ Accepted in IEEE 40th International Conference on Data Engineering (ICDE 2024)
 
 Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: [To Appear in ICDE 2024]
+Publication Link: [Here](https://kanchanchy.github.io/files/GeoTorchAI-ICDE-2024.pdf)
 
 A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework
 ------
