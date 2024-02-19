@@ -16,6 +16,14 @@ Kanchan Chowdhury, Mohamed Sarwat
 
 Publication Link: [Here](https://kanchanchy.github.io/files/GeoTorchAI-ICDE-2024.pdf)
 
+Serving Deep Learning Models from Relational Databases
+------
+Accepted in 27th International Conference on Extending Database Technology (EDBT 2024)
+
+Lixi Zhou, Qi Lin, Kanchan Chowdhury, Saif Masood, Alexandre Eichenberger, Hong Min, Alexander Sim, Jie Wang, Yida Wang, Kesheng Wu, Binhang Yuan, Jia Zou
+
+Publication Link: [To Appear in EDBT 2024]
+
 A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework
 ------
 Published in ACM SIGMOD International Conference on Management of Data (SIGMOD 2023)
