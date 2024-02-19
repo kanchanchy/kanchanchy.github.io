@@ -18,7 +18,7 @@ Machine Learning, Big Geo-spatial Data analytics, and Database Systems
 
 Recent News
 ======
-* [12/23/2023]  A vision paper titled “Serving Deep Learning Models from Relational Databases” was accepted in EDBT 2024.
+* [02/05/2024]  A vision paper titled “Serving Deep Learning Models from Relational Databases” was accepted in EDBT 2024.
 * [12/23/2023]  A research paper titled “Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI” was accepted in ICDE 2024.
 * [08/15/2023]  Completed Internship at Wherobots Inc. as a Research & Development Intern.
 * [06/19/2023]  Attended ACM SIGMOD 2022, volunteered to organize the conference and presented my work: “A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework”.
