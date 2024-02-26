@@ -30,7 +30,7 @@ Published in ACM SIGMOD International Conference on Management of Data (SIGMOD 2
 
 Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: [Here](https://dl.acm.org/doi/10.1145/3555041.3589734)
+Publication Link: [Visit ACM](https://dl.acm.org/doi/10.1145/3555041.3589734) or [Download](https://kanchanchy.github.io/files/GeoTorchAI-Demo.pdf)
 
 GeoTorch: A Spatiotemporal Deep Learning Framework
 ------
