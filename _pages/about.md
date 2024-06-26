@@ -12,7 +12,6 @@ I graduated with a PhD in Computer Science from the School of Computing and Augm
 
 I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Fall 2023. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
 
-==I am open to new roles now!==
 
 Research Interests
 ======
