@@ -22,7 +22,7 @@ Accepted in 27th International Conference on Extending Database Technology (EDBT
 
 Lixi Zhou, Qi Lin, Kanchan Chowdhury, Saif Masood, Alexandre Eichenberger, Hong Min, Alexander Sim, Jie Wang, Yida Wang, Kesheng Wu, Binhang Yuan, Jia Zou
 
-Publication Link: [To Appear in EDBT 2024]
+Publication Link: [Here](https://escholarship.org/uc/item/9jq2r4k1)
 
 A Demonstration of GeoTorchAI: A Spatiotemporal Deep Learning Framework
 ------
@@ -30,7 +30,7 @@ Published in ACM SIGMOD International Conference on Management of Data (SIGMOD 2
 
 Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: [Visit ACM](https://dl.acm.org/doi/10.1145/3555041.3589734) or [Download](https://kanchanchy.github.io/files/GeoTorchAI-Demo.pdf)
+Publication Link: [Visit ACM](https://dl.acm.org/doi/10.1145/3555041.3589734) or [Download](https://kanchanchy.github.io/files/GeoTorchAI-Demo-Sigmod-2023.pdf)
 
 GeoTorch: A Spatiotemporal Deep Learning Framework
 ------
