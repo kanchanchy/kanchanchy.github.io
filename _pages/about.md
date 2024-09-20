@@ -12,6 +12,8 @@ I am a Postdoctoral Research Scholar at Arizona State University where I am wise
 
 I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Fall 2023. Besides, I obtained my Master of Science in Computer Science from Arizona State University in 2022. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
 
+<p style="color: red;">⭐ I am open to new positions now!!! I am looking for a tenure-track position in US-based universities.⭐</p>
+
 
 Research Interests
 ======
