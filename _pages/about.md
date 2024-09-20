@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a PhD in Computer Science from the School of Computing and Augmented Intelligence at Arizona State University. My PhD research was supervised by [Professor Dr. Mo Sarwat](https://mosarwat.org/) and [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home). My research interests lie in the areas of machine learning, geospatial data management, and database systems. My current research focuses on building noble systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques.
+I am a Postdoctoral Research Scholar at Arizona State University where I am wisely mentored by [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home). I completed my PhD in Computer Science from the School of Computing and Augmented Intelligence at Arizona State University in the summer of 2024. My PhD research was supervised by [Professor Dr. Mo Sarwat](https://mosarwat.org/) and [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home). My research interests lie in the areas of machine learning systems, geospatial data management, and database systems. My current research focuses on integrating the optimization power of datbase engines into machine learning systems to enable in-database machine learning. During my PhD, I worked on building novel systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques.
 
-I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Fall 2023. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
+I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Fall 2023. Besides, I obtained my Master of Science in Computer Science from Arizona State University in 2022. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
 
 
 Research Interests
 ======
-Machine Learning, Geospatial Data analytics, and Database Systems
+Machine Learning Systems, Database Systems, and Geospatial Data analytics 
 
 Recent News
 ======
+* [08/12/2024]  Started Postdoctoral Research at Arizona State University under the mentorship of [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home).
 * [06/21/2024]  Defended my PhD dissertation defense at Arizona State University.
 * [02/05/2024]  A vision paper titled “Serving Deep Learning Models from Relational Databases” was accepted in EDBT 2024.
 * [12/23/2023]  A research paper titled “Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI” was accepted in ICDE 2024.

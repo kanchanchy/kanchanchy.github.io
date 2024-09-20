@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, 2018 - Present
+* Ph.D & MS in Computer Science, 2018 - 2024
   * Organization: Arizona State University
-  * Advisor: Professor Mohamed Sarwat
+  * Advisors: Professor Mohamed Sarwat and Professor Jia Zou
   * Recepient of CIDSE Doctoral Fellowship award for the academic year 2018 - 2019
 * B.Sc. in Computer Science & Engineering, 2010 - 2014
   * Organization: Chittagong University of Engineering & Technology
@@ -24,15 +24,21 @@ Education
 
 Work Experience
 ======
-* Teaching & Research Assistant, Fall 2018 - Present
+* Postdoctoral Research Scholar, August 2024 - Present
   * Organization: Arizona State University
-  * Taught 5 courses including Distributed Database Systems, Data Processing at Scale, Object Oriented Programming & Data Structure, Introduction to Java & Python, Introduction to C++
+  * Mentor: Professor Jia Zou
+  * Working on optimizing end-to-end pipelines consisting of database queries and machine learning models for inference workloads, reducing runtime and memory usage of in-database machine learning systems
+
+* Teaching & Research Assistant, Fall 2018 - Summer 2024
+  * Organization: Arizona State University
+  * Served as an instructor for a graduate course named Spatial Data Science and Engineering
+  * Taught 5 courses as a Teaching Assistant including Distributed Database Systems, Data Processing at Scale, Object Oriented Programming & Data Structure, Introduction to Java & Python, Introduction to C++
   * Working on building systems for efficient processing and utilization of large scale geospatial and spatio-temporal data with applications to machine learning and deep learning techniques
   * Worked on AI powered improvement of data integration techniques
   * Worked on a benchmark for evaluating natural language to SQL query synthesis approaches
-  * Mentor/Collaborators: Professor Mohamed Sarwat, Venkata VamsiKrishna Meduri, Jia Yu
+  * Mentor/Collaborators: Professor Mohamed Sarwat, Professor Jia Zou, Venkata VamsiKrishna Meduri, Jia Yu
 
-* Research & Development Intern, January 2023 - Present
+* Research & Development Intern, January 2023 - August 2023
   * Organization: Wherobots Inc, Scottsdale, Arizona, USA
   * Responsibilities: Developing scalable spatial machine learning tools, scalable map-matching and routing algorithms.
 

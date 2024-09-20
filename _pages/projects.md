@@ -8,7 +8,7 @@ author_profile: true
 
 Problem Solving
 ======
-I loved to solve problems on UVa Online Judge and Light OJ when I was an undergraduate student. Nowadays, I love to solve problems in LeetCode. I solved 305 problems in UVa Online Judge, 130+ problems in LeetCode, 46 problems in Light OJ and participated in many programming
+I loved to solve problems on UVa Online Judge and Light OJ when I was an undergraduate student. Nowadays, I love to solve problems in LeetCode. I solved 240+ problems on LeetCode, 305 problems in UVa Online Judge, 130+ problems in LeetCode, 46 problems in Light OJ and participated in many programming
 contests both in real-time and online. I also answered some questions in StackOverflow.
 
 Solved Problems Link: [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=77454).
