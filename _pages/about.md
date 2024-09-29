@@ -14,6 +14,8 @@ I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots
 
 <p style="color: red;">⭐ I am open to new positions now!!! I am looking for a tenure-track position in US-based universities.⭐</p>
 
+My research statement can be found [here](https://kanchanchy.github.io/files/Research-Statement-Kanchan-Chowdhury.pdf).
+
 
 Research Interests
 ======
