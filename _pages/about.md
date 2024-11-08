@@ -15,7 +15,8 @@ I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots
 
 Research Interests
 ======
-Machine Learning Systems, Database Systems, and Geospatial Data analytics 
+Machine Learning Systems, Database Systems, and Geospatial Data analytics
+
 
 Recent News
 ======
