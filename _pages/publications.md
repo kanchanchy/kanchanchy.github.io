@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
+ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries
+------
+To Appear in 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+
+Kanchan Chowdhury, Lulu Xie, Lixi Zhou, Jia Zou
+
+Declarative Privacy-Preserving Inference Queries
+------
+To Appear in 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+
+Hong Guan, Ansh Tiwari, Summer Gautier, Rajan Hari Ambrish, Lixi Zhou, Deepti Gupta, Yancheng Wang, Yingzhen Yang, Chaowei Xiao, Kanchan Chowdhury, Jia Zou
+
+Publication Link: [Here](https://kanchanchy.github.io/files/GeoTorchAI-ICDE-2024.pdf)
 
 Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI
 ------

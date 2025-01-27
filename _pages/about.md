@@ -20,6 +20,8 @@ Machine Learning Systems, Database Systems, and Geospatial Data analytics
 
 Recent News
 ======
+* [01/24/2025]  A full research paper titled “ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries” was accepted in DASFAA 2025.
+* [01/24/2025]  A demonstration paper titled “Declarative Privacy-Preserving Inference Queries” was accepted in DASFAA 2025.
 * [08/12/2024]  Started Postdoctoral Research at Arizona State University under the mentorship of [Professor Dr. Jia Zou](https://sites.google.com/view/jiazou-web/home).
 * [06/21/2024]  Defended my PhD dissertation defense at Arizona State University.
 * [02/05/2024]  A vision paper titled “Serving Deep Learning Models from Relational Databases” was accepted in EDBT 2024.
