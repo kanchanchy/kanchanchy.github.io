@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+Privacy and Accuracy-Aware AI/ML Model Deduplication
+------
+To Appear in ACM International Conference on Management of Data (SIGMOD 2025)
+
+Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, Jia Zou
+
+Publication Link: [Here](https://arxiv.org/pdf/2503.02862)
+
 ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries
 ------
 To Appear in 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
