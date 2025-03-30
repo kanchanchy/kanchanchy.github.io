@@ -27,8 +27,6 @@ To Appear in 30th International Conference on Database Systems for Advanced Appl
 
 Hong Guan, Ansh Tiwari, Summer Gautier, Rajan Hari Ambrish, Lixi Zhou, Deepti Gupta, Yancheng Wang, Yingzhen Yang, Chaowei Xiao, Kanchan Chowdhury, Jia Zou
 
-Publication Link: [Here](https://kanchanchy.github.io/files/GeoTorchAI-ICDE-2024.pdf)
-
 Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI
 ------
 Accepted in IEEE 40th International Conference on Data Engineering (ICDE 2024)
