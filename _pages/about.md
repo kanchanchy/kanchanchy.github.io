@@ -12,7 +12,7 @@ I am a Tenure-Track Assistant Professor of [Computer Science](https://www.marque
 
 I worked as a Research & Development Intern at [Wherobots Inc](https://wherobots.com/) during Spring 2023 and Summer 2023. Besides, I obtained my Master of Science in Computer Science from Arizona State University in 2022. Before joining Arizona State University, I obtained my Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering and Technology in 2014. I also worked as a Software Engineer with several IT companies during the period of 2015 to 2018.
 
-<p style="color: red;">⭐ I will be joining Marquette University as a Tenure-Track Assistant Professor of Computer Science in Fall 2025. I am looking for PhD students to join my lab starting from Fall 2025 or Spring 2026. If you are interested and your interest alligns with my research, please email your CV, transcripts, and other relevant materials to kchowdh1@asu.edu.⭐</p>
+<p style="color: red;">⭐ I am looking for graduate students to join my lab starting from Spring 2026/Fall 2026. If you are interested and your interest alligns with my research, please email your CV, transcripts, and other relevant materials to kanchan.chowdhury@marquette.edu.⭐</p>
 
 
 Research Interests
