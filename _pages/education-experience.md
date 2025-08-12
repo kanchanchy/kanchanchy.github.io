@@ -24,7 +24,11 @@ Education
 
 Work Experience
 ======
-* Postdoctoral Research Scholar, August 2024 - Present
+* Assistant Professor of Computer Science, August 2025 - Present
+  * Organization: Marquette University
+  * Klingler College of Arts and Sciences
+
+* Postdoctoral Research Scholar, August 2024 - June 2025
   * Organization: Arizona State University
   * Mentor: Professor Jia Zou
   * Working on optimizing end-to-end pipelines consisting of database queries and machine learning models for inference workloads, reducing runtime and memory usage of in-database machine learning systems
@@ -54,11 +58,3 @@ Work Experience
   * Organization: ICT Division of Bangladesh
   * Responsibilities: Trained approximately 100 undergraduate students on Android Application Development.
 
-Important Courses
-======
-* Graduate Courses
-  * Statistical Machine Learning, Fundamentals of Statistical Learning, Distributed Database Systems, Data mining, Semantic Web Mining, Social Media Mining
-* Undergraduate Courses
-  * Programming in C/C++, Object Oriented programming in Java, Data Structure, Algorithms, Discrete Mathematics, Artificial Intelligence, Software Engineering, Digital Logic Design, Computer Architecture
-* Online Courses
-  * Effective Programming in Scala, Big Data Analysis with Scala and Spark, Natural Language Processing, Deep Neural Networks with PyTorch, Python for Data Science, AI & Development.

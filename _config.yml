@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kanchanchy"
+  github           : #"kanchanchy"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "2337540/kanchan-chowdhury"
+  stackoverflow    : #"2337540/kanchan-chowdhury"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
