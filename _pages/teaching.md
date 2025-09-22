@@ -8,7 +8,7 @@ author_profile: true
 
 Instructor
 ======
-I served as an instructor for the following course:
+Kanchan served as an instructor for the following course:
 
 Fundamentals of Artificial Intelligence (COSC 5600): Fall 2025
 ------
@@ -24,7 +24,7 @@ It is a graduate Course at Arizona State University. I prepared all the lecture 
 
 Teaching Associate
 ======
-I served as a TA for the following courses at Arizona State University:
+Kanchan served as a TA for the following courses at Arizona State University:
 
 Distributed Database Systems (CSE 512): Fall 2021, Spring 2021, Fall 2020, Spring 2020
 ------
