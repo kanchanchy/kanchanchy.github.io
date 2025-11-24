@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+INFERF: Declarative Factorization of AI/ML Inferences over Joins
+------
+To Appear in ACM SIGMOD International Conference on Management of Data 2026
+
+Kanchan Chowdhury, Lixi Zhou, Lulu Xie, Xinwei Fu, Jia Zou
 
 Privacy and Accuracy-Aware AI/ML Model Deduplication
 ------

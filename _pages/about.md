@@ -22,7 +22,8 @@ Machine Learning Systems, Database Systems, and Geospatial Data analytics
 
 Recent News
 ======
-* [09/11/2025]  Kanchan will serve in the review board of VLDB 2026 starting from October 2025.
+* [11/24/2025]  A full research paper titled “INFERF: Declarative Factorization of AI/ML Inferences over Joins” was accepted in ACM SIGMOD 2026.
+* [09/11/2025]  Serving in the review board of VLDB 2026 starting from October 2025.
 * [08/11/2025]  Joined Marquette University as an Assistant Professor of Computer Science in the College of Arts and Sciences.
 * [06/30/2025]  Completed the Postdoctoral Research at Arizona State University.
 * [01/31/2025]  A full research paper titled “Privacy and Accuracy-Aware AI/ML Model Deduplication” was accepted in ACM SIGMOD 2025.
