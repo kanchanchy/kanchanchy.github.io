@@ -12,25 +12,31 @@ To Appear in ACM SIGMOD International Conference on Management of Data 2026
 
 Kanchan Chowdhury, Lixi Zhou, Lulu Xie, Xinwei Fu, Jia Zou
 
+Preprint Link: [Here](https://arxiv.org/abs/2511.20489)
+
 Privacy and Accuracy-Aware AI/ML Model Deduplication
 ------
 To Appear in ACM International Conference on Management of Data (SIGMOD 2025)
 
 Hong Guan, Lixi Zhou, Lei Yu, Li Xiong, Kanchan Chowdhury, Lulu Xie, Xusheng Xiao, Jia Zou
 
-Publication Link: [Here](https://arxiv.org/pdf/2503.02862)
+Publication Link: [Here](https://dl.acm.org/doi/abs/10.1145/3725340)
 
 ExBoost: Out-of-Box Co-Optimization of Machine Learning and Join Queries
 ------
-To Appear in 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
 
 Kanchan Chowdhury, Lulu Xie, Lixi Zhou, Jia Zou
 
+Preprint Link: [Here](https://kanchanchy.github.io/files/ExBoost_DASFAA_2025.pdf)
+
 Declarative Privacy-Preserving Inference Queries
 ------
-To Appear in 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
+30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
 
 Hong Guan, Ansh Tiwari, Summer Gautier, Rajan Hari Ambrish, Lixi Zhou, Deepti Gupta, Yancheng Wang, Yingzhen Yang, Chaowei Xiao, Kanchan Chowdhury, Jia Zou
+
+Preprint Link: [Here](https://arxiv.org/abs/2401.12393)
 
 Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI
 ------
@@ -38,7 +44,7 @@ Accepted in IEEE 40th International Conference on Data Engineering (ICDE 2024)
 
 Kanchan Chowdhury, Mohamed Sarwat
 
-Publication Link: [Here](https://kanchanchy.github.io/files/GeoTorchAI-ICDE-2024.pdf)
+Publication Link: [Here](https://ieeexplore.ieee.org/abstract/document/10598177)
 
 Serving Deep Learning Models from Relational Databases
 ------
