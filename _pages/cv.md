@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-(https://kanchanchy.github.io/files/CV_Kanchan_Chowdhury.pdf)
+(https://kanchanchy.github.io/files/Kanchan_Chowdhury_CV.pdf)
