@@ -22,6 +22,7 @@ Machine Learning Systems, Database Systems, and Geospatial Data analytics
 
 Recent News
 ======
+* [12/10/2025]  Will be serving in the program committee of EDBT 2027.
 * [12/03/2025]  Started serving as a reviewer for the journal ACM Transactions on Database Systems (TODS).
 * [11/24/2025]  A full research paper titled “INFERF: Declarative Factorization of AI/ML Inferences over Joins” was accepted in ACM SIGMOD 2026.
 * [09/11/2025]  Started serving in the review board of VLDB 2026 starting from October 2025.
