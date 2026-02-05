@@ -10,17 +10,25 @@ Instructor
 ======
 Kanchan served as an instructor for the following course:
 
+Algorithms (COSC 3100): Spring 2026
+------
+It is an undergraduate course at Marquette University.
+
+Advanced Algorithms (COSC 6260): Spring 2026
+------
+It is a graduate course at Marquette University.
+
 Fundamentals of Artificial Intelligence (COSC 5600): Fall 2025
 ------
-It is a graduate Course at Marquette University.
+It is a graduate course at Marquette University.
 
 Fundamentals of Artificial Intelligence (COSC 4600): Fall 2025
 ------
-It is an undergraduate Course at Marquette University.
+It is an undergraduate course at Marquette University.
 
 Spatial Data Science & Engineering (CSE 594): Fall 2022 (Arizona State University)
 ------
-It is a graduate Course at Arizona State University. I prepared all the lecture materials, assignments, and projects for this course. Besides, I also gave all the lectures in the class throughout the semester.
+It is a graduate course at Arizona State University. I prepared all the lecture materials, assignments, and projects for this course. Besides, I also gave all the lectures in the class throughout the semester.
 
 Teaching Associate
 ======

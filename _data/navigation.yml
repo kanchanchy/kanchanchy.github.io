@@ -3,11 +3,11 @@ main:
   - title: "Education & Experiences"
     url: /education-experience/
 
-  - title: "Projects"
-    url: /projects/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "DAISS Lab"
+    url: /daiss-lab/
 
   - title: "Teaching"
     url: /teaching/

@@ -15,14 +15,17 @@ GeoTorchAI, formerly known as GeoTorch, is a spatiotemporal deep learning framew
 
 Project Link: [Github Repository](https://github.com/DataSystemsLab/GeoTorchAI)
 
+InferF: Model Decomposition Framework
+------
+An out-of-box AI/ML-SQL co-optimization approach for end-to-end inference workflows where the users specify a SQL query and a pre-trained model exported in ONNX format, and the end-to-end processing will be automatically optimized reducing the execution latency.
+
+Project Link: [Github Repository](https://github.com/asu-cactus/InferF-ML-Inference-Factorization)
+
 ML Aware Spatial Data Repartitioning
 ------
 This is a framework which aims at reducing the training time and memory usage of a spatial machine learning model by reducing the number of partitions in a spatial grid dataset. Experiments on four datasets achieved significant reduction in training time and memory consumption while bounding the difference in prediction error within 5%.
 
 Project Link: [Github Repository](https://github.com/kanchanchy/spatial-repartitioning-ml)
 
-ExBoost: Model Decomposition Framework
-------
-An out-of-box AI/ML-SQL co-optimization approach for end-to-end inference workflows where the users specify a SQL query and a pre-trained model exported in ONNX format, and the end-to-end processing will be automatically optimized reducing the execution latency.
 
 
