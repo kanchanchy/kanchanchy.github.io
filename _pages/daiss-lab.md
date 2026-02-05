@@ -12,7 +12,7 @@ The Database, AI, and Spatial Systems (DAISS) Lab focuses on developing AI-based
 
 
 Lab Members
-======
+------
 * [Kanchan Chowdhury](https://kanchanchy.github.io)
   * Role: Lab Director
 * Samya Acharja
@@ -23,7 +23,7 @@ Lab Members
 
 
 Focused Projects
-======
+------
 The projects of DAISS Lab can be summarized as following:
 * Spatiotemporal Representation Learning: learning vector embeddings for geospatial and temporal datasets focusing on capturing geospatial object geometry, topology, and contextual semantics. Target applications include but are not limited to disaster management, emergency response, and transportation management.
 * AI for Databases: utilizing machine learning techniques for automatic optimization of geospatial database query engines and translating natural language questions into geospatial database queries.
@@ -34,14 +34,14 @@ The projects of DAISS Lab can be summarized as following:
 
 
 Publications
-======
+------
 Listed [here](https://kanchanchy.github.io/publications/)
 
 
 
 
 Past Projects
-======
+------
 * GeoTorchAI Deep Learning Framework
   * GeoTorchAI, formerly known as GeoTorch, is a spatiotemporal deep learning framework on top of PyTorch and Apache Sedona. It enable spatiotemporal machine learning practitioners to easily and efficiently implement deep learning models targeting the applications of raster imagery datasets and spatiotemporal non-imagery datasets. Besides deep learning, it also supports scalable and distributed data preprocessing for raster and spatiotemporal datasets.
   * Project Link: [Github Repository](https://github.com/DataSystemsLab/GeoTorchAI)
