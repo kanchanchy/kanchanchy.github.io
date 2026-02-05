@@ -1,13 +1,11 @@
 ---
 layout: archive
+title: "Database, AI, and Spatial Systems (DAISS) Lab"
 permalink: /daiss-lab/
 author_profile: true
-redirect_from: 
-  - /daiss-lab
 ---
 
-Database, AI, and Spatial Systems (DAISS) Lab
-======
+{% include base_path %}
 The Database, AI, and Spatial Systems (DAISS) Lab focuses on developing AI-based frameworks for geospatial and spatiotemporal datasets.  The lab also works on optimizing database systems and AI systems, utilizing the best of both domains. Focus areas include Geospatial AI, Geospatial Data Analytics, Machine Learning Systems, and Database Systems.
 
 
