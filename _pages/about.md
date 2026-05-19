@@ -20,7 +20,7 @@ Geospatial AI, Machine Learning Systems, Database Systems, and Spatiotemporal Da
 
 Recent News
 ======
-* [04/30/2026]  Accepted invitation to serve in the program committee of ACM SIGSPATIAL 2027.
+* [04/30/2026]  Accepted invitation to serve in the program committee of ACM SIGSPATIAL 2026.
 * [04/23/2026]  Accepted invitation to serve in the program committee of IEEE ICDE 2027.
 * [04/15/2026]  A review paper titled “Natural Language Interfaces for Spatial and Temporal Databases: A Comprehensive Overview of Methods, Taxonomy, and Future Directions” was accepted to IEEE Access. Congratulations to my PhD student Samya Acharja.
 * [02/23/2026]  A full research paper titled “CactusDB: Unlock Co-Optimization Opportunities for SQL and AI/ML Inferences” was accepted to ACM  ICDE 2026. Congratulations to Lixi Zhou, Jia You, and other collaborators from Arizona State University, Amazon, and Meta.
