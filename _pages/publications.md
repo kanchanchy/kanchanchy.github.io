@@ -7,10 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+* Natural Language Interfaces for Spatial and Temporal Databases: A Comprehensive Overview of Methods, Taxonomy, and Future Directions
+  * IEEE Access
+  * Authors: Samya Acharja, Kanchan Chowdhury
+  * Publication Link: [Here](https://ieeexplore.ieee.org/abstract/document/11491867)
+
+* CACTUSDB: Unlock Co-Optimization Opportunities for SQL and AI/ML Inferences
+  * To Appear in IEEE International Conference on Data Engineering (ICDE) 2026
+  * Authors: Lixi Zhou, Kanchan Chowdhury, Lulu Xie, Jaykumar Tandel, Hong Guan, Zhiwei Fan, Xinwei Fu, Jia Zou
+  * Preprint Link: [Here](https://arxiv.org/pdf/2602.23469)
+
 * INFERF: Declarative Factorization of AI/ML Inferences over Joins
-  * To Appear in ACM SIGMOD International Conference on Management of Data 2026
+  * ACM SIGMOD International Conference on Management of Data 2026
   * Authors: Kanchan Chowdhury, Lixi Zhou, Lulu Xie, Xinwei Fu, Jia Zou
-  * Preprint Link: [Here](https://arxiv.org/abs/2511.20489)
+  * Publication Link: [Here](https://dl.acm.org/doi/abs/10.1145/3786662)
 
 * Privacy and Accuracy-Aware AI/ML Model Deduplication
   * Published in ACM SIGMOD International Conference on Management of Data 2025
